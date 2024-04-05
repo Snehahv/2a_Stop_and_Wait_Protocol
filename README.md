@@ -1,6 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
-**NAME : SNEHA HV**  
-**REGISTER NUMBER : 212222040157** 
+## NAME:AADITHIYAN R
+## REGISTER NUMBER:2122222300001 
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
